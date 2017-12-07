@@ -16,6 +16,7 @@ rspec-given is awesome. While embrace JavaScript's asynchronous nature, respec-g
 ## Demo
 
 ![usage demo](https://raw.githubusercontent.com/cades/respec-given/master/doc/demo.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcades%2Frespec-given.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcades%2Frespec-given?ref=badge_shield)
 
 
 ## Installation
@@ -464,3 +465,7 @@ there are 3 Node.js loader out of the box:
     mocha --ui respec-given --require respec-given/na-loader/ls
     ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcades%2Frespec-given.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcades%2Frespec-given?ref=badge_large)
